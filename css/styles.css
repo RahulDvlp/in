@@ -1,0 +1,133 @@
+{
+  font-family: 'MonteCarlo', cursive;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Redressed', cursive;
+  font-family: 'Roboto Serif', serif;
+  font-family: 'Sacramento', cursive;
+}
+h1{
+  color: #54BAB9;
+}
+h2{
+  color: #54BAB9;
+}
+h3{
+  color: #54BAB9;
+}
+body {
+  color: #40514E;
+  margin: 0px;
+}
+
+h1 {
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-top: 150px;
+  font-family: 'Sacramento', cursive;
+  font-size: 510%;
+}
+p{
+  line-height: 2;
+}
+.top {
+  background-color: #EAF6F6;
+}
+
+.all {
+  text-align: center;
+}
+
+
+}
+
+#boy {
+  padding-top: 100px;
+}
+
+.mid {
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Redressed', cursive;
+  background-color: #FFF6EA;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+
+}
+.skill-row1{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  padding-top: 30px;
+}
+.set{
+  width:25%;
+  float: left;
+  margin-right: 30px;
+
+
+}
+.pc{
+  width:25%;
+  float:right;
+  margin-left: 30px;
+}
+.contact-me{
+  line-height: 2;
+}
+hr{
+  margin: 100px auto 100px auto;
+  border-style: dotted none none;
+ border-width: 3px;
+ border-color: grey;
+ width: 3%;
+
+}
+.botm{
+  background-color:  #11999E;
+  padding: 50px 0 10px;
+}
+.btn {
+  background: #11999E;
+  background-image: -webkit-linear-gradient(top, #11999E, #28FFBF);
+  background-image: -moz-linear-gradient(top, #11999E, #28FFBF);
+  background-image: -ms-linear-gradient(top, #11999E, #28FFBF);
+  background-image: -o-linear-gradient(top, #11999E, #28FFBF);
+  background-image: linear-gradient(to bottom, #11999E, #28FFBF);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #28FFBF;
+  background-image: -webkit-linear-gradient(top, #28FFBF, #28FFBF);
+  background-image: -moz-linear-gradient(top, #28FFBF, #28FFBF);
+  background-image: -ms-linear-gradient(top, #28FFBF, #28FFBF);
+  background-image: -o-linear-gradient(top, #28FFBF, #28FFBF);
+  background-image: linear-gradient(to bottom, #28FFBF, #28FFBF);
+  text-decoration: none;
+}
+.contact-msg{
+  width: 40%;
+  margin: 40px auto 40px;
+}
+a{
+  color: #28FFBF;
+  font-family: 'Roboto Serif', serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color:#EAF6F6;
+}
+.copyright{
+  color: #EAF6F6;
+  padding: 20px 0 0;
+}
